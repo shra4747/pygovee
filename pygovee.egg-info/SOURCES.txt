@@ -1,0 +1,9 @@
+README.md
+setup.py
+pygovee/Govee.py
+pygovee/__init__.py
+pygovee.egg-info/PKG-INFO
+pygovee.egg-info/SOURCES.txt
+pygovee.egg-info/dependency_links.txt
+pygovee.egg-info/requires.txt
+pygovee.egg-info/top_level.txt
